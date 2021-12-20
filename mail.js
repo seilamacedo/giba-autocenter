@@ -1,13 +1,9 @@
         
-  // Import the functions you need from the SDKs you need
   import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
   import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js";
-  // TODO: Add SDKs for Firebase products that you want to use
-  // https://firebase.google.com/docs/web/setup#available-libraries        
+
         
-        
-        
-const firebaseConfig = {
+   const firebaseConfig = {
     apiKey: "AIzaSyD05NgH0J33jo63MDYj-lplBCZQXRI7jPk",
     authDomain: "giba-dados.firebaseapp.com",
     databaseURL: "https://giba-dados-default-rtdb.firebaseio.com",
@@ -71,7 +67,6 @@ const firebaseConfig = {
     alinhamento4: alinhamento4,
     alinhamento5: alinhamento5,
     alinhamento6: alinhamento6,
-
     });
   };
   
