@@ -1,8 +1,4 @@
-        
-  import { initializeApp } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js";
-  import { getAnalytics } from "https://www.gstatic.com/firebasejs/9.6.1/firebase-analytics.js";
 
-        
    const firebaseConfig = {
     apiKey: "AIzaSyD05NgH0J33jo63MDYj-lplBCZQXRI7jPk",
     authDomain: "giba-dados.firebaseapp.com",
